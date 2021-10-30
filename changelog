@@ -21,3 +21,6 @@ Syntax for changelog:
 --- 0.1.0 - Project and folders setup.
     Project and folders setup.
 
+--- 0.2.0 - API and Logger added.
+    Added Logger function and API class for Bittrex.
+
